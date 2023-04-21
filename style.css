@@ -56,9 +56,15 @@ html, body {
 
 @media (min-width: 425px) {
   #map {
-    width: 600px;
+    width: 100vw;
   }
 }
+
+/* @media (min-width: 500px) {
+  #map {
+    width: 768px;
+  }
+} */
 
 @media (min-width: 768px) {
   #map {
